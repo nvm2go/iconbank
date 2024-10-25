@@ -1,2 +1,2 @@
-# iconbank
-images
+# MariaDB icon
+
