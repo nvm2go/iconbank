@@ -1,3 +1,6 @@
-# MariaDB icon
+## MariaDB Icon
 
-  https://github.com/nvm2go/iconbank/blob/main/mariadb.png
+```text
+https://github.com/nvm2go/iconbank/blob/main/mariadb.png
+```
+
