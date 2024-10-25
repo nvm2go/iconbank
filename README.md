@@ -1,82 +1,42 @@
-## MariaDB Icon
+## MariaDB icon
 
 ```text
 https://github.com/nvm2go/iconbank/blob/main/mariadb.png?raw=true
 ```
 
-## phpMyadmin
+## phpMyadmin icon
 
 ```text
-(type her the actual github image file and "?raw=true" at the end of the link
+https://github.com/nvm2go/iconbank/blob/main/phpmyadmin.png?raw=true
+```
+
+## PHP 
+
+```text
+https://github.com/nvm2go/iconbank/blob/main/php.png?raw=true
+```
+
+## internet
+
+```text
+https://github.com/nvm2go/iconbank/blob/main/internet.png?raw=true
 ```
 
 ## (icon name)
 
 ```text
-(type her the actual github image file and "?raw=true" at the end of the link
+https://github.com/nvm2go/iconbank/blob/main/XAMPP.png?raw=true
 ```
 
-## (icon name)
+## MySQL
 
 ```text
-(type her the actual github image file and "?raw=true" at the end of the link
+https://github.com/nvm2go/iconbank/blob/main/MySQL.png?raw=true
 ```
 
-## (icon name)
+## Adminer
 
 ```text
-(type her the actual github image file and "?raw=true" at the end of the link
+https://github.com/nvm2go/iconbank/blob/main/Adminer.png?raw=true
 ```
 
-## (icon name)
-
-```text
-(type her the actual github image file and "?raw=true" at the end of the link
-```
-
-## (icon name)
-
-```text
-(type her the actual github image file and "?raw=true" at the end of the link
-```
-
-## (icon name)
-
-```text
-(type her the actual github image file and "?raw=true" at the end of the link
-```
-
-## (icon name)
-
-```text
-(type her the actual github image file and "?raw=true" at the end of the link
-```
-
-## (icon name)
-
-```text
-(type her the actual github image file and "?raw=true" at the end of the link
-```
-
-## (icon name)
-
-```text
-(type her the actual github image file and "?raw=true" at the end of the link
-```
-
-## (icon name)
-
-```text
-(type her the actual github image file and "?raw=true" at the end of the link
-```
-
-
-
-
-
-
-## (icon name)
-
-```text
-(type her the actual github image file and "?raw=true" at the end of the link
-```
