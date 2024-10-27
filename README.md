@@ -43,11 +43,11 @@ https://github.com/nvm2go/iconbank/blob/main/Adminer.png?raw=true
 ## PHP7
 
 ```text
-https://github.com/nvm2go/iconbank/blob/main/php7.png
+https://github.com/nvm2go/iconbank/blob/main/php7.png?raw=true
 ```
 
 ## Pi-hole
 
 ```text
-https://github.com/nvm2go/iconbank/blob/main/pi-hole.png
+https://github.com/nvm2go/iconbank/blob/main/pi-hole.png?raw=true
 ```
