@@ -45,3 +45,9 @@ https://github.com/nvm2go/iconbank/blob/main/Adminer.png?raw=true
 ```text
 https://github.com/nvm2go/iconbank/blob/main/php7.png
 ```
+
+## Pi-hole
+
+```text
+https://github.com/nvm2go/iconbank/blob/main/pi-hole.png
+```
