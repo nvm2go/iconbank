@@ -64,6 +64,11 @@ https://github.com/nvm2go/iconbank/blob/main/Home_Assistant.png?raw=true
 https://github.com/nvm2go/iconbank/blob/main/Raspberry_Pi_OS.png?raw=true
 ```
 
+## Gold_Cloud
+
+```text
+https://github.com/nvm2go/iconbank/blob/main/goldcloud.png?raw=true
+```
 
 
 
